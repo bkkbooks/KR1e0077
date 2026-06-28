@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR1e0077/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書經部五
+  hash: sha256:02dd33ef1c70b837406ca8d729e4163b1ab6b8a43895174682c3937c960ea212
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR1e0077_WYG_000-1a, image: WYG0167/WYG0167-0683a.png}
+body:
+  text: 左傳附注春秋類提要臣等謹按左傳附注十卷明陸粲撰粲字子餘長洲人嘉靖丙戌進士官至工科給事中以劾張璁桂蕚謫都鎮驛驛丞終於永新縣知縣事迹具明史本傳是編前三卷駁正杜預之注義第二卷駁正孔頴達之疏文第五卷駁正陸德明左傳釋文之音義多旁採諸家之論亦間斷以已意於訓詁家頗為有禆顧炎武日知録于駁正左傳注後附書曰凡邵陸傅三先生所已辨者不録邵者邵寶左傳觿傅者傅遜左傳屬事陸即粲也蓋炎武亦甚重此書矣粲又有春秋左傳鐫二卷大意以左傳為戰國人作而劉歆又以意附益故往往卑賤不中道或為竒言怪說騖于末流考粲以左傳為出戰國蓋因程子謂臘為秦禮庶長為秦官已為膠固其以竄亂歸之劉歆蓋因林栗謂左傳凡言君子曰是劉歆之詞尤無佐證未免務為髙論仍蹈明人臆揣之習所謂畫蛇添足者也故惟録此編而左傳鐫則别存其目焉乾隆四十二年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:ccd4ead02918f34b86d0a8d4836c5042ce8e07cbb0f78765771c917238fad88a
+metadata:
+  title: 左傳附注
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:15:48.770425'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR1e0077/KR1e0077_000.txt
+hash: sha256:253ecc956847ed95a6535ee0a5ae522df08141caaa84830c34d9986c229fe298
